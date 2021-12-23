@@ -147,6 +147,11 @@ h1 {
 
   .guess {
     font-size: 3.5rem;
+    width: 20rem;
+  }
+
+  .message {
+    line-height: 150%;
   }
 }
 
